@@ -1,0 +1,105 @@
+{
+    "Message": "Data fetched from local",
+    "Names": [
+        {
+            "Abn": "37527841675",
+            "AbnStatus": "0000000001",
+            "IsCurrent": true,
+            "Name": "ORCHID",
+            "NameType": "Trading Name",
+            "Postcode": "3150",
+            "Score": 100,
+            "State": "VIC"
+        },
+        {
+            "Abn": "67070183715",
+            "AbnStatus": "0000000001",
+            "IsCurrent": true,
+            "Name": "ORCHID",
+            "NameType": "Trading Name",
+            "Postcode": "3212",
+            "Score": 100,
+            "State": "VIC"
+        },
+        {
+            "Abn": "45642393100",
+            "AbnStatus": "0000000001",
+            "IsCurrent": true,
+            "Name": "ORCHID & CO PTY LTD",
+            "NameType": "Entity Name",
+            "Postcode": "3220",
+            "Score": 100,
+            "State": "VIC"
+        },
+        {
+            "Abn": "82089615305",
+            "AbnStatus": "0000000002",
+            "IsCurrent": true,
+            "Name": "ORCHID PTY LIMITED",
+            "NameType": "Entity Name",
+            "Postcode": "2191",
+            "Score": 100,
+            "State": "NSW"
+        },
+        {
+            "Abn": "86116043522",
+            "AbnStatus": "0000000001",
+            "IsCurrent": true,
+            "Name": "ORCHID PTY LTD",
+            "NameType": "Entity Name",
+            "Postcode": "2031",
+            "Score": 100,
+            "State": "NSW"
+        },
+        {
+            "Abn": "65859092284",
+            "AbnStatus": "0000000002",
+            "IsCurrent": true,
+            "Name": "Orchid",
+            "NameType": "Trading Name",
+            "Postcode": "2220",
+            "Score": 100,
+            "State": "NSW"
+        },
+        {
+            "Abn": "47414930712",
+            "AbnStatus": "0000000001",
+            "IsCurrent": true,
+            "Name": "Orchid",
+            "NameType": "Trading Name",
+            "Postcode": "6065",
+            "Score": 100,
+            "State": "WA"
+        },
+        {
+            "Abn": "84278817376",
+            "AbnStatus": "0000000002",
+            "IsCurrent": true,
+            "Name": "The trustee for Orchid",
+            "NameType": "Entity Name",
+            "Postcode": "4061",
+            "Score": 100,
+            "State": "QLD"
+        },
+        {
+            "Abn": "69624300205",
+            "AbnStatus": "0000000001",
+            "IsCurrent": true,
+            "Name": "AUSTRALIA ORCHID PTY LTD",
+            "NameType": "Entity Name",
+            "Postcode": "4109",
+            "Score": 97,
+            "State": "QLD"
+        },
+        {
+            "Abn": "55603661865",
+            "AbnStatus": "0000000002",
+            "IsCurrent": true,
+            "Name": "AUSTRALIA ORCHID PTY LTD",
+            "NameType": "Entity Name",
+            "Postcode": "4109",
+            "Score": 97,
+            "State": "QLD"
+        }
+    ]
+}
